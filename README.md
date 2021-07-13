@@ -1,5 +1,5 @@
 # Next.js isomorphic ready for Capacitor
-This is a quick example of setting up a project to run with Capacitor, but still being able to use a server.
+This is a quick example of setting up 2 next.js instances, so you can use server side routes with Capacitor.
 
 # Set up
 - Run `npm install`
