@@ -13,3 +13,7 @@ This is a quick example of setting up a project to run with Capacitor, but still
 - Stop the `client-dev` script
 - Run `npm run export`
 - Open the `index.html` in a browser and you should still see the fruits
+
+# Road map
+- Add documentation about deploying the server to Vercel
+- Add client side environment variables to access Vercel deployed server
