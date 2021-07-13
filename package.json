@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-and-capacitor-isomorphic-example",
+  "version": "1.0.0",
+  "description": "Example of using next.js (client side and server side) with capacitor",
+  "main": "index.js",
+  "scripts": {
+    "server-dev": "cd server && next dev -p 3001",
+    "client-dev": "cd client && next dev -p 3000",
+    "export": "cd client && next build && next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mledwards/nextjs-and-capacitor-isomorphic-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mledwards/nextjs-and-capacitor-isomorphic-example/issues"
+  },
+  "homepage": "https://github.com/mledwards/nextjs-and-capacitor-isomorphic-example#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "next": "^11.0.1"
+  }
+}
