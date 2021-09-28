@@ -5,7 +5,7 @@
 		],
 		"target": {
 			"namespace": "android_app",
-			"package_name": "app.vercel.mymotorhub",
+			"package_name": "com.mymotorhub.app",
 			"sha256_cert_fingerprints": [
 				"60:8D:AE:F6:61:7A:3F:42:C8:68:A7:47:57:5B:25:28:42:F3:61:D2:01:09:35:2C:7F:0C:16:F8:B3:A5:73:45"
 			]

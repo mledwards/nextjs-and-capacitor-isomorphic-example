@@ -3,7 +3,7 @@ import { useAuth0 } from "@auth0/auth0-react";
 import { Browser } from "@capacitor/browser";
 
 const logoutUri =
-  "app.vercel.mymotorhub://mymotorhub.eu.auth0.com/capacitor/app.vercel.mymotorhub/callback";
+  "com.mymotorhub.app://mymotorhub.eu.auth0.com/capacitor/com.mymotorhub.app/callback";
 
 function LogoutButton() {
   const { buildLogoutUrl, logout } = useAuth0();

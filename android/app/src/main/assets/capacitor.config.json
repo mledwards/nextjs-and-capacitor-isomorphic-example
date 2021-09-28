@@ -1,5 +1,5 @@
 {
-	"appId": "app.vercel.mymotorhub",
+	"appId": "com.mymotorhub.app",
 	"appName": "nextjs-and-capacitor-isomorphic-example",
 	"webDir": "out",
 	"bundledWebRuntime": false

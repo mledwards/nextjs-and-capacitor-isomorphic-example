@@ -1,4 +1,4 @@
-package app.vercel.mymotorhub;
+package com.mymotorhub.app;
 
 import com.getcapacitor.BridgeActivity;
 
