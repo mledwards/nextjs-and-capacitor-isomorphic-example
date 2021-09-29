@@ -9,7 +9,7 @@
     "start": "next start",
     "export": "next export",
     "build-mobile": "next build && next export && npx cap sync",
-    "build-mobile-run-client": "next build && next export && npx cap sync && npm run start",
+    "build-mobile-run-web": "next build && next export && npx cap sync && npm run start",
     "build-mobile-run-android": "next build && next export && npx cap sync && npx cap open android",
     "server-dev": "cd server && next dev -p 3001",
     "client-dev": "next dev -p 3000"
